@@ -1,0 +1,16 @@
+#emby
+#直连
+DOMAIN-SUFFIX,yusen6.ccwu.cc,全球直连
+DOMAIN-SUFFIX,yusen.us.ci,全球直连
+DOMAIN-SUFFIX,yusen.cyou,全球直连
+DOMAIN-SUFFIX,yusen.cc.cd,全球直连
+DOMAIN-SUFFIX,xmsl.org,全球直连
+DOMAIN-SUFFIX,nyxx.de5.net,全球直连
+DOMAIN-SUFFIX,poloemby.xyz,全球直连
+
+#反代域名
+DOMAIN-SUFFIX,dolby.dpdns.org,全球直连
+DOMAIN-SUFFIX,liuerao.dpdns.org,全球直连
+
+#代理
+DOMAIN-SUFFIX,embyplus.org,节点选择
