@@ -1,5 +1,5 @@
 # 内容：ptdirect相关
-# 数量：7条
+# 数量：12条
 # 主站
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,m-team.io
@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,hdfans.org
 DOMAIN-SUFFIX,cyanbug.net
 DOMAIN-SUFFIX,zhuque.in
 # 额外种子
-DOMAIN-SUFFIX,qingwapt.com
+DOMAIN-SUFFIX,qingwapt.org
 DOMAIN-SUFFIX,halomt.com
 DOMAIN-SUFFIX,manfuz.co
 DOMAIN-SUFFIX,holysalt.org
