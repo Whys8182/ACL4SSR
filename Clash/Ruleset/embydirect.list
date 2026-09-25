@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,poloemby.xyz
 DOMAIN-SUFFIX,9521732.xyz
 # plex
 DOMAIN-SUFFIX,plex.direct
+DOMAIN-SUFFIX,plex.tv
 # 反代域名
 DOMAIN-SUFFIX,dolby.dpdns.org
 DOMAIN-SUFFIX,liuerao.dpdns.org
