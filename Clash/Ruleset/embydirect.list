@@ -15,3 +15,5 @@ DOMAIN-SUFFIX,plex.tv
 # 反代域名
 DOMAIN-SUFFIX,dolby.dpdns.org
 DOMAIN-SUFFIX,liuerao.dpdns.org
+# 网盘
+DOMAIN-SUFFIX,oplist.org
