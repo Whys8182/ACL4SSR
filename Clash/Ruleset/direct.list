@@ -1,6 +1,7 @@
 # 内容：常用直连
-# 数量：32条
+# 数量：35条
 # 资源
+DOMAIN-SUFFIX,lizhi.shop
 DOMAIN-SUFFIX,20120714.xyz
 # 论坛
 DOMAIN-SUFFIX,ilovefishc.com
@@ -12,6 +13,12 @@ DOMAIN-SUFFIX,123278.com
 DOMAIN-SUFFIX,123957.com
 DOMAIN-SUFFIX,123pan.com
 # 工具
+DOMAIN-SUFFIX,dashbeam.net
+DOMAIN-SUFFIX,appstoreprice.org
+DOMAIN-SUFFIX,pages.dev
+DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,maxmind.com
+DOMAIN-SUFFIX,chahuo.com
 DOMAIN-SUFFIX,immersivetranslate.com
 DOMAIN-SUFFIX,adblockerplus.org
 DOMAIN-SUFFIX,better365.com
@@ -25,6 +32,9 @@ DOMAIN-SUFFIX,dabaicai.com
 DOMAIN-SUFFIX,laomaotao.net
 DOMAIN-SUFFIX,edgeless.top
 # 影音
+DOMAIN-SUFFIX,tsanger.cn
+DOMAIN-SUFFIX,mediavault.qzz.io
+DOMAIN-SUFFIX,symedia.top
 DOMAIN-SUFFIX,tidewren.com
 DOMAIN-SUFFIX,lrclib.net
 DOMAIN-SUFFIX,assrt.net
