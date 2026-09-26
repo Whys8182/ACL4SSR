@@ -1,5 +1,5 @@
 # 内容：常用直连
-# 数量：44条
+# 数量：45条
 # 资源
 DOMAIN-SUFFIX,lizhi.shop
 DOMAIN-SUFFIX,20120714.xyz
@@ -28,6 +28,7 @@ DOMAIN-SUFFIX,freenom.com
 DOMAIN-SUFFIX,cloudflare.com
 # AI
 DOMAIN-SUFFIX,agnes-ai.com
+DOMAIN-SUFFIX,sensenova.cn
 # PE工具
 DOMAIN-SUFFIX,dabaicai.com
 DOMAIN-SUFFIX,laomaotao.net
