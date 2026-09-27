@@ -1,6 +1,8 @@
 # 内容：常用代理
-# 数量：3条
+# 数量：4条
 # 属灵
 DOMAIN-SUFFIX,bibletool.online
 DOMAIN-SUFFIX,hymnal.net
 DOMAIN-SUFFIX,lrcn.org
+# 网盘
+DOMAIN-SUFFIX,dian115.com
