@@ -1,0 +1,9 @@
+# ===== 完整规则 2 条 =====
+
+# ===== 直连 =====
+# ===== 影音 =====
+domain(domain:muvyo.com) -> direct
+
+# ===== 代理 =====
+# ===== 属灵 =====
+domain(domain:bibletool.online) -> proxy
