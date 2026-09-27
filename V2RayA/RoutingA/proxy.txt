@@ -1,0 +1,3 @@
+# ===== 直连 1 条 =====
+# ===== 属灵相关 =====
+domain(domain:bibletool.online) -> proxy
