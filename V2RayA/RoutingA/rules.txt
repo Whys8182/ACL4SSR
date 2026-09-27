@@ -4,8 +4,104 @@ default: proxy
 
 # ==================== 直连 ====================
 
+# 资源
+domain(domain:lizhi.shop) -> direct
+domain(domain:20120714.xyz) -> direct
+
+# 论坛
+domain(domain:ilovefishc.com) -> direct
+domain(domain:wuyou.net) -> direct
+
+# 通讯
+domain(domain:ultramobile.com) -> direct
+
+# 网盘
+domain(domain:123278.com) -> direct
+domain(domain:123957.com) -> direct
+domain(domain:123pan.com) -> direct
+domain(domain:dian115.com) -> direct
+
+# 工具
+domain(domain:dashbeam.net) -> direct
+domain(domain:appstoreprice.org) -> direct
+domain(domain:pages.dev) -> direct
+domain(domain:speedtest.net) -> direct
+domain(domain:maxmind.com) -> direct
+domain(domain:chahuo.com) -> direct
+domain(domain:immersivetranslate.com) -> direct
+domain(domain:adblockerplus.org) -> direct
+domain(domain:better365.com) -> direct
+
+# 域名
+domain(domain:cloudflare.com) -> direct
+domain(domain:dnshe.com) -> direct
+
+# AI
+domain(domain:agnes-ai.com) -> direct
+
+# PE工具
+domain(domain:dabaicai.com) -> direct
+domain(domain:laomaotao.net) -> direct
+domain(domain:edgeless.top) -> direct
+
 # 影音
 domain(domain:muvyo.com) -> direct
+domain(domain:tsanger.cn) -> direct
+domain(domain:mediavault.qzz.io) -> direct
+domain(domain:symedia.top) -> direct
+domain(domain:tidewren.com) -> direct
+domain(domain:lrclib.net) -> direct
+domain(domain:assrt.net) -> direct
+domain(domain:subhd.tv) -> direct
+domain(domain:pianyuan.org) -> direct
+domain(domain:肖申克的救赎.com) -> direct
+domain(domain:星际穿越.com) -> direct
+domain(domain:阿甘正传.com) -> direct
+domain(domain:盗梦空间.com) -> direct
+domain(domain:hgeme.com) -> direct
+domain(domain:教父.com) -> direct
+domain(domain:黑客帝国.com) -> direct
+domain(domain:rexnow.tv) -> direct
+domain(domain:themoviedb.org) -> direct
+domain(domain:dsxys.com) -> direct
+domain(domain:dsxys.pro) -> direct
+
+# PT
+domain(domain:m-team.cc) -> direct
+domain(domain:m-team.io) -> direct
+domain(domain:hhanclub.net) -> direct
+domain(domain:qingwapt.com) -> direct
+domain(domain:audiences.me) -> direct
+domain(domain:hdfans.org) -> direct
+domain(domain:cyanbug.net) -> direct
+domain(domain:zhuque.in) -> direct
+
+# PT种子站
+domain(domain:qingwapt.org) -> direct
+domain(domain:halomt.com) -> direct
+domain(domain:manfuz.co) -> direct
+domain(domain:holysalt.org) -> direct
+
+# Emby
+domain(domain:yusen6.ccwu.cc) -> direct
+domain(domain:yusen.us.ci) -> direct
+domain(domain:yusen.cyou) -> direct
+domain(domain:yusen.cc.cd) -> direct
+domain(domain:xmsl.org) -> direct
+domain(domain:nyxx.de5.net) -> direct
+domain(domain:poloemby.xyz) -> direct
+domain(domain:9521732.xyz) -> direct
+
+# Plex
+domain(domain:plex.direct) -> direct
+domain(domain:plex.tv) -> direct
+
+# 个人服务
+domain(domain:你的个人域名.com) -> direct
+
+# 反代域名
+domain(domain:dolby.dpdns.org) -> direct
+domain(domain:liuerao.dpdns.org) -> direct
 
 # 邮件
 domain(domain:mail.qq.com) -> direct
@@ -15,6 +111,10 @@ domain(domain:mail.qq.com) -> direct
 
 # 属灵
 domain(domain:bibletool.online) -> proxy
+domain(domain:hymnal.net) -> proxy
+
+# Emby
+domain(domain:embyplus.org) -> proxy
 
 
 # ==================== 基础规则 ====================
