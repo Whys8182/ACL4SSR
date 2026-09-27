@@ -82,14 +82,7 @@ domain(domain:manfuz.co) -> direct
 domain(domain:holysalt.org) -> direct
 
 # Emby
-domain(domain:yusen6.ccwu.cc) -> direct
-domain(domain:yusen.us.ci) -> direct
-domain(domain:yusen.cyou) -> direct
-domain(domain:yusen.cc.cd) -> direct
-domain(domain:xmsl.org) -> direct
-domain(domain:nyxx.de5.net) -> direct
-domain(domain:poloemby.xyz) -> direct
-domain(domain:9521732.xyz) -> direct
+domain(domain:你的Emby域名.com) -> direct
 
 # Plex
 domain(domain:plex.direct) -> direct
