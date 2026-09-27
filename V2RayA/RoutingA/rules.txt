@@ -1,9 +1,36 @@
-# ===== 完整规则 2 条 =====
+default: proxy
 
-# ===== 直连 =====
-# ===== 影音 =====
+# 在此处填写自定义规则
+
+# ==================== 直连 ====================
+
+# 影音
 domain(domain:muvyo.com) -> direct
 
-# ===== 代理 =====
-# ===== 属灵 =====
+# 邮件
+domain(domain:mail.qq.com) -> direct
+
+
+# ==================== 代理 ====================
+
+# 属灵
 domain(domain:bibletool.online) -> proxy
+
+
+# ==================== 基础规则 ====================
+
+# 学术
+domain(geosite:google-scholar) -> proxy
+domain(geosite:category-scholar-!cn, geosite:category-scholar-cn) -> direct
+
+# Google
+domain(geosite:geolocation-!cn, geosite:google) -> proxy
+
+# 中国大陆
+domain(geosite:cn) -> direct
+
+# 香港 / 澳门
+ip(geoip:hk, geoip:mo) -> proxy
+
+# 私有地址 / 中国大陆 IP
+ip(geoip:private, geoip:cn) -> direct
