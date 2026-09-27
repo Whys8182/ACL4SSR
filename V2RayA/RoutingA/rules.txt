@@ -19,7 +19,6 @@ domain(domain:ultramobile.com) -> direct
 domain(domain:123278.com) -> direct
 domain(domain:123957.com) -> direct
 domain(domain:123pan.com) -> direct
-domain(domain:dian115.com) -> direct
 
 # 工具
 domain(domain:dashbeam.net) -> direct
@@ -112,10 +111,13 @@ domain(domain:mail.qq.com) -> direct
 # 属灵
 domain(domain:bibletool.online) -> proxy
 domain(domain:hymnal.net) -> proxy
+domain(domain:lrcn.org) -> proxy
 
 # Emby
 domain(domain:embyplus.org) -> proxy
 
+# 网盘
+domain(domain:dian115.com) -> proxy
 
 # ==================== 基础规则 ====================
 
