@@ -107,7 +107,7 @@ domain(domain:hymnal.net) -> proxy
 domain(domain:lrcn.org) -> proxy
 
 # Emby
-domain(domain:embyplus.org) -> proxy
+domain(domain:你的Emby域名.com) -> proxy
 
 # 网盘
 domain(domain:dian115.com) -> proxy
