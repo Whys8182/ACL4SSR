@@ -80,6 +80,7 @@ domain(domain:qingwapt.org) -> direct
 domain(domain:halomt.com) -> direct
 domain(domain:manfuz.co) -> direct
 domain(domain:holysalt.org) -> direct
+domain(domain:cinefiles.info) -> direct
 
 # Emby
 domain(domain:你的Emby域名.com) -> direct
