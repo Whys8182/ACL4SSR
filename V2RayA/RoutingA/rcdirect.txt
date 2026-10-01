@@ -1,3 +1,4 @@
 # ===== 直连 1 条 =====
 # ===== 影音 =====
 domain(domain:muvyo.com) -> direct
+domain(domain:drivemby.com) -> direct
