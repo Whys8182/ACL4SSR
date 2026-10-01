@@ -64,6 +64,7 @@ domain(domain:rexnow.tv) -> direct
 domain(domain:themoviedb.org) -> direct
 domain(domain:dsxys.com) -> direct
 domain(domain:dsxys.pro) -> direct
+domain(domain:drivemby.com) -> direct
 
 # PT
 domain(domain:m-team.cc) -> direct
