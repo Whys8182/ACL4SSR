@@ -1,5 +1,5 @@
 # 内容：媒体相关
-# 数量：9条
+# 数量：10 条
 # emby
 DOMAIN-SUFFIX,yusen6.ccwu.cc
 DOMAIN-SUFFIX,yusen.us.ci
@@ -15,5 +15,6 @@ DOMAIN-SUFFIX,plex.tv
 # 反代域名
 DOMAIN-SUFFIX,dolby.dpdns.org
 DOMAIN-SUFFIX,liuerao.dpdns.org
+DOMAIN-SUFFIX,liuer.bbroot.com
 # 网盘
 DOMAIN-SUFFIX,oplist.org
