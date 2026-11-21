@@ -1,5 +1,15 @@
 # 内容：常用直连
-# 数量：49条
+# 数量：58条
+# 自定义域名分流
+DOMAIN-SUFFIX,233988.xyz
+DOMAIN-SUFFIX,6785888.xyz
+DOMAIN-SUFFIX,21guns.de5.net
+DOMAIN-SUFFIX,filedrop.de5.net
+DOMAIN-SUFFIX,fsrv.de5.net
+DOMAIN-SUFFIX,heartbeats.de5.net
+DOMAIN-SUFFIX,nyxx.de5.net
+DOMAIN-SUFFIX,scope.de5.net
+DOMAIN-SUFFIX,sumu.de5.net
 # 资源 2 条
 DOMAIN-SUFFIX,lizhi.shop
 DOMAIN-SUFFIX,20120714.xyz
