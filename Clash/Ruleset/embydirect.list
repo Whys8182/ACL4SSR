@@ -1,5 +1,5 @@
 # 内容：媒体相关
-# 数量：10 条
+# 数量：15 条
 # emby
 DOMAIN-SUFFIX,yusen6.ccwu.cc
 DOMAIN-SUFFIX,yusen.us.ci
@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,yusen.cc.cd
 DOMAIN-SUFFIX,xmsl.org
 DOMAIN-SUFFIX,nyxx.de5.net
 DOMAIN-SUFFIX,poloemby.xyz
+DOMAIN-SUFFIX,poloco.org
 DOMAIN-SUFFIX,9521732.xyz
 # plex
 DOMAIN-SUFFIX,plex.direct
