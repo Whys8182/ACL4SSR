@@ -1,5 +1,5 @@
 # 内容：常用直连
-# 数量：59条
+# 数量：65 条
 # 自定义域名分流
 DOMAIN-SUFFIX,233988.xyz
 DOMAIN-SUFFIX,6785888.xyz
@@ -44,9 +44,15 @@ DOMAIN-SUFFIX,sensenova.cn
 DOMAIN-SUFFIX,dabaicai.com
 DOMAIN-SUFFIX,laomaotao.net
 DOMAIN-SUFFIX,edgeless.top
-# 机场or代理 2 条
+# 机场 or 代理 8 条
 DOMAIN-SUFFIX,v50.su
 DOMAIN-SUFFIX,ghproxy.com
+DOMAIN-SUFFIX,1ms.run
+DOMAIN-SUFFIX,1panel.live
+DOMAIN-SUFFIX,sparkcr.cn
+DOMAIN-SUFFIX,rat.dev
+DOMAIN-SUFFIX,nmqu.com
+DOMAIN-SUFFIX,houlang.cloud
 # 影音 22 条
 DOMAIN-SUFFIX,aurtech.cn
 DOMAIN-SUFFIX,inch.red
